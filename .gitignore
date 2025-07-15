@@ -1,0 +1,5 @@
+# Node.js dependencies
+/node_modules
+
+# Package manager lock files (optional, but good practice for consistency)
+package-lock.json
